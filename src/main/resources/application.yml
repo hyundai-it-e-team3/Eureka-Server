@@ -1,5 +1,5 @@
 server:    
-  port: 8761 # 1번
+  port: 82 # 1번
 
 spring: 
   application:
